@@ -18,7 +18,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) project that allows users t
 - Debugging 400/500 backend errors
 
 ## ⚙️ Tech Stack
-**Frontend:** React, TailwindCSS, Axios  
+**Frontend:** React, TailwindCSS, Axios , framer-motion  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose  
 **Tools:** Vite, Postman, VS Code  
 
